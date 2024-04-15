@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Bernal</h1>
 <h3 align="center">A dedicated Data Scientist and a Physics Student</h3>
 
+
+<p> Im' a Data Scientist with a passion for delivering valuable insights through analytical functions and models. Pursuing Physics degree to strengthen modeling skills. Committed to tech advancement</p>
+
 - 📫 How to reach me **david.brpo@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
