@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://media.discordapp.net/attachments/1233871367200440360/1233871762404409436/background_1.png?ex=662eac20&is=662d5aa0&hm=a9e35909fbcb19b3bd35db4079cf4128c307801c1d0472feb8f6f962df2b409a&=&format=webp&quality=lossless&width=825&height=289" width="1033" height='360px'/>
+  <img src="https://media.discordapp.net/attachments/1233871367200440360/1233871762404409436/background_1.png?ex=662eac20&is=662d5aa0&hm=a9e35909fbcb19b3bd35db4079cf4128c307801c1d0472feb8f6f962df2b409a&=&format=webp&quality=lossless&width=825&height=289" width="723" height='252px'/>
 
 </div>
 
